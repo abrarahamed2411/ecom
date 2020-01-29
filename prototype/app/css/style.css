@@ -69,16 +69,93 @@
     background-image: url(../images/category-3.jpg);
 }
 
+.category-4 {
+    background-image: url(../images/category-4.jpg);
+}
+
+.category-5 {
+    background-image: url(../images/category-5.jpg);
+}
+
+.category-6 {
+    background-image: url(../images/simple-style.jpg);
+}
+
+.category-7 {
+    background-image: url(../images/modern-sweaters.jpg);
+}
+
+.category-8 {
+    background-image: url(../images/back-pack.jpg);
+}
+
 .category .category-text {
     text-align: center;
     padding-left: 40px;
     width: 200px;
 }
 
+.category2 .category-text {
+    text-align: center;
+    padding-left: 40px;
+    padding-top: 150px;
+    width: 400px;
+    height: 350px;
+}
+
+.category2 .category-text2 {
+    padding-left: 100px;
+    width: 400px;
+    height: 350px;
+    float: right;
+    text-align: center;
+    padding-top: 150px;
+}
+
 .category h3 {
     font-size: 23px;
     color: #000;
     padding-bottom: 10px;
+}
+
+.categorydown {
+    padding-top: 20px;
+}
+
+.categorydown2 .category-text1 {
+    padding-right: 100px;
+    float: right;
+    height: 300px;
+    text-align: center;
+    height: 300px;
+    padding-top: 150px;
+}
+
+.categorydown2 .category-text2 {
+    padding-top: 150px;
+    width: 200px;
+    height: 300px;
+    color: #fff;
+    padding-left: 200px;
+}
+
+.categorydown2 .category-text3 {
+    padding-left: 20px;
+    width: 200px;
+    height: 300px;
+    float: left;
+    text-align: center;
+    padding-top: 150px;
+}
+
+.category2 .btn-secondary {
+    background-color: #fff;
+    color: #000;
+}
+
+.categorydown2 .btn-secondary {
+    background-color: #fff;
+    color: #000;
 }
 
 .btn-secondary {
@@ -88,4 +165,60 @@
     border-radius: 15px;
     padding: 6px 17px;
     font-size: 11px;
+}
+
+.navigationbar {
+    padding-top: 20px;
+    text-align: center;
+    padding-left: 600px;
+}
+
+.pro-detail {}
+
+.pro-detail h4 {}
+
+.pro-detail h5 a {
+    font-size: 12px;
+    font-weight: bold;
+    color: black;
+}
+
+.pro-detail h5 a:hover {
+    color: rgb(219, 183, 19);
+}
+
+.pro-detail p {
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(217, 18, 31);
+}
+
+.btn-cart {
+    font-size: solid 1px #cacaca;
+    font-weight: 10px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1.2px;
+}
+
+.button-cart a:hover {
+    font-size: 10px;
+    background-color: crimson;
+    border-color: slateblue;
+}
+
+.pro-detail h5 {
+    padding-top: 20px;
+}
+
+section title {}
+
+.latest-products h2 {
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+.latest-products2 {
+    padding-bottom: 40px;
 }
