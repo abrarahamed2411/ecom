@@ -68,3 +68,7 @@
 .copyright {
     color: gray;
 }
+
+.copyright p {
+    margin-bottom: 0
+}
