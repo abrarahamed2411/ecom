@@ -1,0 +1,91 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.inner-side-banner {
+    background: #f8f8f8;
+    padding: 60px 0;
+}
+
+.inner-side-banner .nav .nav-link {
+    padding: 10px 10px 10px 0;
+}
+
+.inner-side-banner .nav .nav-link.active {
+    color: red;
+}
+
+.products-part {
+    padding: 60px 0;
+}
+
+.products-part .list-item h3 {
+    margin-bottom: 20px;
+}
+
+.products-part .list-item ul li {
+    border-top: 1px solid #ddd;
+}
+
+.products-part .list-item ul li a {
+    display: block;
+    padding: 10px 0;
+}
+
+.products-part .list-item .inside-menu .card {
+    border: none;
+}
+
+.products-part .list-item .inside-menu .card .nav li {
+    border: none;
+}
+
+.products-part .list-item .price-part {
+    padding-bottom: 30px;
+}
+
+.products-part .list-item .price-part h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.products-part .product-inner .product-item .product-dt-item a {
+    padding: 7px 10px;
+}
+
+.form-part {
+    padding: 50px 0;
+}
+
+.form-part .form-control {
+    margin-bottom: 20px;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.form-part #submit-btn {
+    padding: 10px 20px;
+    background: #d9121f;
+    border: none;
+    color: #fff;
+}
+
+.add-part .add-item {
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.add-part .add-item .icon-part {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.add-part .add-item a {
+    color: #333;
+}
+
+.add-part .add-item h5,
+span {
+    padding-left: 30px;
+}
